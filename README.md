@@ -11,4 +11,5 @@ b) When the Snake hits the food, two things happen:-
 We continue to eat pieces of food until eventually, we will hit the wall or our own Snake body:
  a) Hit the wall
  b) Hit ourselves
-#Tech Stack used : Python programming language    
+
+Tech Stack used : Python programming language    
