@@ -1,5 +1,4 @@
-#Title 
-Nokia's mobile 90's Snake Game .
+#Title  Nokia's mobile 90's Snake Game .
 # Description
 Implementation of the simplest version of the Snake game from the Nokia cell phones of the late 90s.
 Starting with a length 5 snake at the bottom left corner and a randomly placed piece of food:
