@@ -9,6 +9,6 @@ b) When the Snake hits the food, two things happen:-
 1. A new piece of food immediately appears in a new random location 
 2. In the NEXT frame, the snake grows by one 
 We continue to eat pieces of food until eventually, we will hit the wall or our own Snake body:
- 1) Hit the wall
- 2) Hit ourselves
+ a) Hit the wall
+ b) Hit ourselves
 #Tech Stack used : Python programming language    
